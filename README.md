@@ -10,6 +10,8 @@ I used, Model View Controller as the design pattern for this app. The folder str
 
 - For quick customization, clone this repository and swap out the images in the Assets folder. Change the background, front and back of the cards, and the app icon!
 
+![Gif of iMemory](https://media.giphy.com/media/EOlfZMXGMyw9oaoIGg/giphy.gif)
+
 # 
 To reach the final round of interviews with Apple, just like many other places, you have to complete a code challenge. This was my code challenge and the requirements were as follows:
 
